@@ -113,8 +113,6 @@ Dataset source:
 
 ![Instruction Format](results/instruction_format.png)
 
-![Instruction Training](results/instruction_training.png)
-
 ### Final Chatbot Demo
 
 ![Final Chatbot Demo](results/final_chatbot_demo.png)
@@ -148,6 +146,8 @@ jupyter notebook
 or run directly using Google Colab.
 
 ## Repository Structure
+
+```text
 .
 ├── notebooks/
 │   └── CMPE454_GPT2_Project.ipynb
@@ -167,6 +167,7 @@ or run directly using Google Colab.
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
+```
 
 ## Notes
 - Training was performed using the free version of Google Colab.
